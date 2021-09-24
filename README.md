@@ -19,7 +19,7 @@ Palier à l'abascence de featur client via API
   
 ### Environment py3
 
-lyb: 
+lyb:   
    -requests              # pour les requets via API  
    -re                    # pour traitement string via regex  
    -xml.etree.ElementTree # pour parse xml   
