@@ -9,7 +9,12 @@ pour la vérification des éléments de configuration sur SBC/ECB.
 
 **Server:** oracle ESBC or ECB release 8.4 or higher
 
-## Environment 
+## Environment py3
 
-Pour les besoins 
+lyb: 
+  -requests              # pour les requets via API
+  -re                    # pour traitement string via regex
+  -xml.etree.ElementTree # pour parse xml 
+  -phonenumbers          # pour check NDI 
+
   
