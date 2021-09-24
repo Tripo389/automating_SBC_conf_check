@@ -1,7 +1,9 @@
-# SBC/ECB oracle autocheck param config
-****
-Palier a l'abascence de featur client 
-pour la vérification des éléments de configuration sur SBC/ECB. 
+
+# SBC/ECB oracle autocheck param config local-policy
+
+Palier à l'abascence de featur client via API 
+
+
 
 ## Tech 
 
@@ -9,7 +11,13 @@ pour la vérification des éléments de configuration sur SBC/ECB.
 
 **Server:** oracle ESBC or ECB release 8.4 or higher
 
-## Environment py3
+  
+## Documentation
+
+[Documentation API rest oracle](https://docs.oracle.com/en/industries/communications/session-border-controller/8.4.0/rest/index.html)
+
+  
+### Environment py3
 
 lyb: 
   -requests              # pour les requets via API
@@ -17,4 +25,6 @@ lyb:
   -xml.etree.ElementTree # pour parse xml 
   -phonenumbers          # pour check NDI 
 
+
+  
   
