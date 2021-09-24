@@ -20,10 +20,10 @@ Palier à l'abascence de featur client via API
 ### Environment py3
 
 lyb:   
-   -requests              *pour les requets via API*  
-   -re                    *pour traitement string via regex*  
-   -xml.etree.ElementTree *pour parse xml*   
-   -phonenumbers          *pour check NDI*  
+   -_requests_              *pour les requets via API*  
+   -_re_                    *pour traitement string via regex*  
+   -_xml.etree.ElementTree_ *pour parse xml*   
+   -_phonenumbers_          *pour check NDI*  
 
   
   
