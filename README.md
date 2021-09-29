@@ -2,6 +2,7 @@
 # SBC/ECB oracle autocheck param config local-policy
 
 Palier à l'abascence de featur client via API 
+Le projet à pour objectif d'automatiser la validité des numéros renseigner en black list via la local-policy. 
 
 
 
