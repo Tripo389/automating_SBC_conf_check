@@ -22,13 +22,17 @@ L'interêt final sera de pouvoir palier aux erreurs humaines lors de l'implémen
 [User guide automating_SBC_conf_check](https://github.com/Tripo389/automating_SBC_conf_check/blob/d4a9af6f1553cffb248b870ca78504c098abdad8/User%20guide%20automating_SBC_conf_check.docx)  
 
   
-### Environment py3
+### Environment py3  
 
+IDE:
+  __Pycharme__   
 lyb:   
    -__requests__              *pour les requets via API*  
    -__re__                    *pour traitement string via regex*  
    -__xml.etree.ElementTree__ *pour parse xml*   
    -__phonenumbers__          *pour check NDI*  
+   -__time__                  *pour horodatage*  
+   
 
   
   
