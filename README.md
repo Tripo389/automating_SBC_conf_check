@@ -25,7 +25,8 @@ L'interêt final sera de pouvoir palier aux erreurs humaines lors de l'implémen
 ### Environment py3  
 
 IDE:
-  __Pycharme__     
+  __Pycharme__   
+    
 lyb:   
    -__requests__              *pour les requets via API*  
    -__re__                    *pour traitement string via regex*  
