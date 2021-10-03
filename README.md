@@ -16,7 +16,8 @@ Le projet à pour objectif d'automatiser la validité des numéros renseigner en
 ### Documentation
 
 [Documentation API rest oracle](https://docs.oracle.com/en/industries/communications/session-border-controller/8.4.0/rest/index.html)  
-[HLD automating_SBC_conf_check](https://github.com/Tripo389/automating_SBC_conf_check/blob/c6e861cb283ffedcb05f18d9a681570236357fb5/HLD%20automating_SBC_conf_check.docx)
+[HLD automating_SBC_conf_check](https://github.com/Tripo389/automating_SBC_conf_check/blob/c6e861cb283ffedcb05f18d9a681570236357fb5/HLD%20automating_SBC_conf_check.docx)  
+[User guide automating_SBC_conf_check](https://github.com/Tripo389/automating_SBC_conf_check/blob/d4a9af6f1553cffb248b870ca78504c098abdad8/User%20guide%20automating_SBC_conf_check.docx)  
 
   
 ### Environment py3
