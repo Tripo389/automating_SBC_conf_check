@@ -1,9 +1,9 @@
 
 # SBC/ECB oracle autocheck param config local-policy
 
-Palier à l'abascence de featur client via API 
+Palier à l'abscence de feature client via API 
 Le projet à pour objectif d'automatiser la validité des numéros renseigner en black list via la local-policy.  
-Le script dans sa versiont actuel ne permet qu'une verifiation et un log des entrées valides et des entrées non valides.  
+Le script dans sa version actuel ne permet qu'une verification et un log des entrées valides et des entrées non valides.  
 L'interêt final sera de pouvoir palier aux erreurs humaines lors de l'implémentation de nouvelles rêgles de blocage.
 
 
